@@ -18,4 +18,4 @@ Python | Climate Policy Analytics | Sustainability Evaluation | Data Visualizati
 * Evaluated resilience integration and mitigation strategy alignment
 * Improved comparative analysis of climate-policy effectiveness and implementation readiness
 
-[View Project](./05_climate_action_plan_analytics)
+[View Project][(./05_climate_action_plan_analytics)](https://github.com/haveisi/climate-ai-cap-analysis.git)
