@@ -18,4 +18,4 @@ openLCA | Python | Excel | LCA Modeling | Sustainability Analytics
 * Evaluated lower-carbon and resource-efficient material alternatives
 * Improved visibility into circularity and sustainability performance opportunities
 
-[View Project](./06_lca_circularity_analysis)
+[View Project][(./06_lca_circularity_analysis)](https://github.com/haveisi/plantd-osb-lca.git)
