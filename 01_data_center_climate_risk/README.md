@@ -14,8 +14,9 @@ ArcGIS Pro | Python | Power BI | GIS | Climate-Risk Analytics | Spatial Analysis
 - Evaluated operational risks linked to water stress and energy dependencies
 - Improved visibility into infrastructure resilience and ESG-related operational risks
 
-![Flood Risk & CSO Exposure](images/flood_risk_cso_exposure.png)
+<img width="697" height="548" alt="image" src="https://github.com/user-attachments/assets/c71942e1-4d7e-4d5a-86eb-5ba84ce73250" />
 
-![Transition Cost Exposure](images/transition_cost_exposure.png)
+<img width="743" height="604" alt="image" src="https://github.com/user-attachments/assets/e49dfc80-9c26-427d-8ab5-5c3f2b30330c" />
 
-[View Project](./01_data_center_climate_risk)
+
+[[View Project](./01_data_center_climate_risk)](https://github.com/haveisi/wisconsin-data-center-risk-analysis.git)
